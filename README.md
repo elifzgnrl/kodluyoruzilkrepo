@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet REDAME.md dosyası, bir adet de index.html barındırıyor.
 
-![ilk](ilkrepo.png)
+![ilk](ilkrepo.PNG)
 # Installation
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
